@@ -10,8 +10,9 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/1.9/ref/settings/
 """
 
-#i've changed the settings file! AGAIN
-print('booya again!')
+=======
+#i've changed the settings file!
+print('booya')
 
 
 import os
